@@ -1,0 +1,27 @@
+[
+  {
+    "id": "639fa4cb6529ae4ff147d812",
+    "rating": 5,
+    "feedback": "User experience could've been better"
+  },
+  {
+    "id": "639fa4f24df6b491e8950d4d",
+    "rating": 5,
+    "feedback": "User experience could've been better"
+  },
+  {
+    "id": "63a39fbaba0948e8bbb8c97b",
+    "rating": 1,
+    "feedback": "Worst experience I've had. The application took a long time to load."
+  },
+  {
+    "id": "63a3a37c43e74a2be7faa0a7",
+    "rating": 2,
+    "feedback": "Application could have been better. The application took a long time to update."
+  },
+  {
+    "id": "63a3ddfaae6f9c47097b0f16",
+    "rating": 3,
+    "feedback": "Much better than last time."
+  }
+]
